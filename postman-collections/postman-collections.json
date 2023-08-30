@@ -1,10 +1,9 @@
 {
-
- {
-    "postman_id": "02c90123-318f-4680-8bc2-640adabb45e8",
+  "info": {
+    "_postman_id": "02c90123-318f-4680-8bc2-640adabb45e8",
     "name": "New Collection",
     "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
- },
+  },
   "item": [
     {
       "name": "hello-world test",
